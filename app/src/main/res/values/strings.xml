@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">VNTravel</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="title_menu_item_1">Về chúng tôi</string>
+
+    <string name="main_backward">Lùi</string>
+    <string name="main_forward">Tiến</string>
+
+    <string name="about_title">Nhóm 5</string>
+    <string name="about_name_member_1">Trần Tuấn Thành</string>
+    <string name="about_id_member_1">19110289</string>
+    <string name="about_name_member_2">Nguyễn Văn Tín</string>
+    <string name="about_id_member_2">19110298</string>
+    <string name="about_name_member_3">Lê Trung Hậu</string>
+    <string name="about_id_member_3">19110028</string>
+
+
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
